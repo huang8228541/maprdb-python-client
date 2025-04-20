@@ -17,4 +17,3 @@ To use the client library, see the examples [here](https://github.com/mapr-demos
 
 To create a connection, see the connection string examples [here](https://github.com/mapr/maprdb-python-client/tree/master/docs/connection_instruction.md).
 
-
